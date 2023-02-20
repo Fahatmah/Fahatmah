@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript and React**
 
-- ⚡ Fun fact **can learn anything but time is gold and I can't afford gold. You can just call me Fat**
+**Just call me Fat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
