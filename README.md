@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my works are currently available at:
     - [Repos](https://github.com/Fahatmah?tab=repositories)
-    - [Dribble](https://dribbble.com/https://dribbble.com/fat__)
+    - [Dribble](https://dribbble.com/fahatmah)
     - [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/Fahatmah)
 
 ## Languages and Tools
