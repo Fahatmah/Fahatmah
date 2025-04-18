@@ -1,4 +1,4 @@
-![MasterHead](/github_readme_banner.png)
+![MasterHead](/banner.png)
 <div align="right">
 
 [Dribble Works](https://dribbble.com/fahatmah)
